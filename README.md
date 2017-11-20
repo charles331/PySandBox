@@ -1,2 +1,2 @@
 # PySandBox
-Py sand box
+Py sand box create to test PyCharm with GitHub
